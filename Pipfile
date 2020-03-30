@@ -5,9 +5,6 @@ verify_ssl = true
 
 [dev-packages]
 rope = "*"
-ipython = "*"
-jupyter = "*"
-notebook = "*"
 autopep8 = "*"
 
 [packages]
